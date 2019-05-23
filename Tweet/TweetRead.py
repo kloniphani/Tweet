@@ -8,8 +8,8 @@ from tweepy.streaming import StreamListener
 import socket
 import json
  
-consumer_key    = os.environ['mqX42zyMgVPcPTTLNThc3VmSY']
-consumer_secret = os.environ['0BQfCvc2H12cXcGxh0aSC2HWDTJGYPZP1QU6U9q9on6kcOklXE']
+consumer_key    = os.environ['tPCRRNRKDJ1VOOufcgn7qDgCc']
+consumer_secret = os.environ['DPGsFxmncEHc8Pdd8bSrt8duq0N52bxGr5glFLyG0W4Ft6mvqg']
 access_token    = os.environ['784468231759261696-fnEDOcnOpSi3Mbs9LB2DTexhAgFV5k5']
 access_secret   = os.environ['IzH7uO0XZStIfrhMwddDPLIEHdbb2pzAW1HsWr5VlluwN']
  
