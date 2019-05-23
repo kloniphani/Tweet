@@ -22,7 +22,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="SparkDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Tweet.py" />
+    <Compile Include="TweetRead.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Twitter.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda36-64" />
